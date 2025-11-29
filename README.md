@@ -4,8 +4,6 @@
 # D Flip-Flop Verification Using SystemVerilog Layered Testbench
 
 This project demonstrates how a **D Flip-Flop (D-FF)** is verified using a **SystemVerilog layered testbench**.
-It is designed for students and beginners who want to understand both **digital design** and **verification methodology** in a simple, clear way.
-
 ---
 
 # 1. What Is a D Flip-Flop?
@@ -91,7 +89,7 @@ This structure makes the testbench:
 
 ---
 
-# 🔰 5. Project Structure
+# 5. Project Structure
 
 ```
 ├── design.sv          # D Flip-Flop RTL
@@ -109,7 +107,7 @@ This structure makes the testbench:
 
 ---
 
-# 🔰 6. How the Verification Works (Simple Explanation)
+# 6. How the Verification Works (Simple Explanation)
 
 ### **Step 1: Generator creates a random D value**
 
